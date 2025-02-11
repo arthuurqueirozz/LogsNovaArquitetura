@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\dev\\LogsNovaArquitetura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|f:\\dev\\logsnovaarquitetura\\logsdomain\\entities\\logbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|solutionrelative:logsdomain\\entities\\logbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|f:\\dev\\logsnovaarquitetura\\logsdomain\\entities\\logtipos\\logpagamentoboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|solutionrelative:logsdomain\\entities\\logtipos\\logpagamentoboleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|f:\\dev\\logsnovaarquitetura\\logsdomain\\entities\\logtipos\\logtransacaointerna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|solutionrelative:logsdomain\\entities\\logtipos\\logtransacaointerna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF4C34-3AE7-42D2-AF4F-30220A405643}|LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj|f:\\dev\\logsnovaarquitetura\\logsinfracrosscutting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62DF4C34-3AE7-42D2-AF4F-30220A405643}|LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj|solutionrelative:logsinfracrosscutting\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogPagamentoBoleto.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Entities\\LogTipos\\LogPagamentoBoleto.cs",
+              "RelativeDocumentMoniker": "LogsDomain\\Entities\\LogTipos\\LogPagamentoBoleto.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Entities\\LogTipos\\LogPagamentoBoleto.cs",
+              "RelativeToolTip": "LogsDomain\\Entities\\LogTipos\\LogPagamentoBoleto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:29:55.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogTransacaoInterna.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Entities\\LogTipos\\LogTransacaoInterna.cs",
+              "RelativeDocumentMoniker": "LogsDomain\\Entities\\LogTipos\\LogTransacaoInterna.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Entities\\LogTipos\\LogTransacaoInterna.cs",
+              "RelativeToolTip": "LogsDomain\\Entities\\LogTipos\\LogTransacaoInterna.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:25:47.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\Class1.cs",
+              "RelativeDocumentMoniker": "LogsInfraCrossCutting\\Class1.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\Class1.cs",
+              "RelativeToolTip": "LogsInfraCrossCutting\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T03:15:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogBase.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Entities\\LogBase.cs",
+              "RelativeDocumentMoniker": "LogsDomain\\Entities\\LogBase.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Entities\\LogBase.cs",
+              "RelativeToolTip": "LogsDomain\\Entities\\LogBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T00:49:20.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
