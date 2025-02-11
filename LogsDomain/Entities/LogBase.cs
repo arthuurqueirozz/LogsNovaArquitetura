@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace LogsDomain.Entities
 {
-    public abstract class LogBase
+    public abstract class LogBase: BaseEntity
     {
-        public int Id { get; set; }
         public DateTime DataLog { get; set; } = DateTime.UtcNow;
         public int Agencia { get; set; }
         public bool Estornado { get; set; } = false;

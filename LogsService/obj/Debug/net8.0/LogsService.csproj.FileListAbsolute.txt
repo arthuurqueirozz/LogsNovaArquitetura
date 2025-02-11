@@ -1,0 +1,16 @@
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.csproj.AssemblyReference.cache
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.AssemblyInfoInputs.cache
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.AssemblyInfo.cs
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.sourcelink.json
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.deps.json
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.pdb
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsDomain.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsDomain.pdb
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsServ.D9A8B8D9.Up2Date
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\refint\LogsService.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.pdb
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\ref\LogsService.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GPYT/GAEgHswcvbiNRe3xgHRTqtcf3WGvgHJEhlHXBY=",
+  "Source": "LogsAPI",
+  "BasePath": "_content/LogsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

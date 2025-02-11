@@ -10,6 +10,6 @@ namespace LogsDomain.Entities.LogTipos
     {
         public int NumeroContaInicio { get; set; }
         public decimal ValorTransacao { get; set; } = 0m;
-        public string Status { get; set; }
+        public string Status { get; set; } = string.Empty;
     }
 }

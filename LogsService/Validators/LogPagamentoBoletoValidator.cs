@@ -12,7 +12,11 @@ namespace LogsService.Validators
     {
         public LogPagamentoBoletoValidator()
         {
-            
+            RuleFor(log => log.CodigoBarrasBoleto)
+                .NotEmpty().WithMessage("o codigo de barras nao pode ser vazio");
+
+            RuleFor(log => log.ValorBoleto)
+                .GreaterThan(0).WithMessage("o valor do boleto nao pode ser nulo");
         }
     }
 }

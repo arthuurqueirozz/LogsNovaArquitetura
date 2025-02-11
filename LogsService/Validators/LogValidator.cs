@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace LogsService.Validators
 {
-    public class LogValidator : AbstractValidator<LogBase>
+    public class LogBaseValidator : AbstractValidator<LogBase>
     {
-        public LogValidator()
+        public LogBaseValidator()
         {
             RuleFor(log => log.DataLog)
                 .NotEmpty().WithMessage("a data do log nao pode estar vazia")

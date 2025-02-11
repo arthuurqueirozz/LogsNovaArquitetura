@@ -7,10 +7,12 @@ using System.Threading.Tasks;
 
 namespace LogsDomain.Interfaces
 {
-    public interface ILogRepository
+    public interface ILogRepository<TEntity> where TEntity : LogBase
     {
-        Task AdicionarLogAsync(LogBase log);
-        Task<IEnumerable<LogBase>> RetornarTodosLogsAsync();
-        Task<LogBase> RetornarPorIdAsync(int id);
+        Task Insert(TEntity obj);
+        Task<IList<TEntity>> GetAll();
+        Task<TEntity> Find(int id);
+        Task Delete(int id);
+        Task Update(TEntity obj);
     }
 }

@@ -1,0 +1,13 @@
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\bin\Debug\net8.0\LogsDomain.deps.json
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\bin\Debug\net8.0\LogsDomain.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\bin\Debug\net8.0\LogsDomain.pdb
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.csproj.AssemblyReference.cache
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.AssemblyInfoInputs.cache
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.AssemblyInfo.cs
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.sourcelink.json
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\refint\LogsDomain.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\LogsDomain.pdb
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsDomain\obj\Debug\net8.0\ref\LogsDomain.dll
