@@ -23,7 +23,6 @@ namespace LogsService.Services
 
         public async Task<TEntity> Add<TValidator>(TEntity obj) where TValidator : AbstractValidator<TEntity>, new()
         {
-            // Valida o objeto usando o validador correspondente
             Validate(obj, Activator.CreateInstance<TValidator>());
 
             await _logRepository.Insert(obj);

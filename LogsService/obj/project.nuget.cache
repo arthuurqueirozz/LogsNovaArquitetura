@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3R+VSMeTx1U=",
+  "dgSpecHash": "4QrQzewO6v8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\LogsService.csproj",
+  "projectFilePath": "F:\\dev\\LogsNovaArquitetura\\LogsService\\LogsService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Arthur Queiroz\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+    "C:\\Users\\Arthur\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
   ],
   "logs": []
 }

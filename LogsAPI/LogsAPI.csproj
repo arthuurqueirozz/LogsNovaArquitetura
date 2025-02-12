@@ -11,7 +11,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\LogsDomain\LogsDomain.csproj" />
+    <ProjectReference Include="..\LogsInfraCrossCutting\LogsInfraCrossCutting.csproj" />
+    <ProjectReference Include="..\LogsService\LogsService.csproj" />
   </ItemGroup>
 
 </Project>

@@ -18,3 +18,23 @@ C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraCrossCutt
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\refint\LogsInfraCrossCutting.dll
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.pdb
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\ref\LogsInfraCrossCutting.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsInfraCrossCutting.deps.json
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsInfraCrossCutting.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsInfraCrossCutting.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsDomain.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsInfraData.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsService.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsInfraData.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsService.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\bin\Debug\net8.0\LogsDomain.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.csproj.AssemblyReference.cache
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.AssemblyInfoInputs.cache
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.AssemblyInfo.cs
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.csproj.CoreCompileInputs.cache
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.sourcelink.json
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfr.F3CEE087.Up2Date
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\refint\LogsInfraCrossCutting.dll
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\LogsInfraCrossCutting.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraCrossCutting\obj\Debug\net8.0\ref\LogsInfraCrossCutting.dll

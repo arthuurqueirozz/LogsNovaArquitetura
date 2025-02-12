@@ -14,3 +14,19 @@ C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\De
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\refint\LogsService.dll
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.pdb
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\ref\LogsService.dll
+F:\dev\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.deps.json
+F:\dev\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.dll
+F:\dev\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.pdb
+F:\dev\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsDomain.dll
+F:\dev\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsDomain.pdb
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.csproj.AssemblyReference.cache
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.AssemblyInfoInputs.cache
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.AssemblyInfo.cs
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.csproj.CoreCompileInputs.cache
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.sourcelink.json
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsServ.D9A8B8D9.Up2Date
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.dll
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\refint\LogsService.dll
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.pdb
+F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\ref\LogsService.dll

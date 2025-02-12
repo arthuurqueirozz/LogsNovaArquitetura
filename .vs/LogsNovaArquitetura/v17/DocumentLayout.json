@@ -1,33 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\",
+  "WorkspaceRootPath": "F:\\dev\\LogsNovaArquitetura\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsservice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|solutionrelative:logsservice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsdomain\\interfaces\\ibaselogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|solutionrelative:logsdomain\\interfaces\\ibaselogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62DF4C34-3AE7-42D2-AF4F-30220A405643}|LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsinfracrosscutting\\logsinfracrosscutting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{62DF4C34-3AE7-42D2-AF4F-30220A405643}|LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj|f:\\dev\\logsnovaarquitetura\\logsinfracrosscutting\\logsinfracrosscutting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62DF4C34-3AE7-42D2-AF4F-30220A405643}|LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj|solutionrelative:logsinfracrosscutting\\logsinfracrosscutting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsinfradata\\repository\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|solutionrelative:logsinfradata\\repository\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5DD9C3F-485A-4E35-B0D4-04E6316CC709}|LogsAPI\\LogsAPI.csproj|f:\\dev\\logsnovaarquitetura\\logsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DD9C3F-485A-4E35-B0D4-04E6316CC709}|LogsAPI\\LogsAPI.csproj|solutionrelative:logsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsservice\\validators\\logpagamentoboletovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5DD9C3F-485A-4E35-B0D4-04E6316CC709}|LogsAPI\\LogsAPI.csproj|f:\\dev\\logsnovaarquitetura\\logsapi\\logsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5DD9C3F-485A-4E35-B0D4-04E6316CC709}|LogsAPI\\LogsAPI.csproj|solutionrelative:logsapi\\logsapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DD9C3F-485A-4E35-B0D4-04E6316CC709}|LogsAPI\\LogsAPI.csproj|f:\\dev\\logsnovaarquitetura\\logsapi\\controllers\\v1\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DD9C3F-485A-4E35-B0D4-04E6316CC709}|LogsAPI\\LogsAPI.csproj|solutionrelative:logsapi\\controllers\\v1\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|f:\\dev\\logsnovaarquitetura\\logsservice\\validators\\logbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|solutionrelative:logsservice\\validators\\logbasevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|f:\\dev\\logsnovaarquitetura\\logsdomain\\interfaces\\ibaselogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DECC48F9-FA4F-4F7D-9946-C901B7C8E3FA}|LogsDomain\\LogsDomain.csproj|solutionrelative:logsdomain\\interfaces\\ibaselogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|f:\\dev\\logsnovaarquitetura\\logsservice\\validators\\logpagamentoboletovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|solutionrelative:logsservice\\validators\\logpagamentoboletovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsservice\\validators\\logvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|solutionrelative:logsservice\\validators\\logvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|f:\\dev\\logsnovaarquitetura\\logsservice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CD88BB-5093-468D-B3EC-7A154A170DC9}|LogsService\\LogsService.csproj|solutionrelative:logsservice\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|c:\\users\\arthur queiroz\\documents\\estudos\\logsnovaarquitetura\\logsinfradata\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|f:\\dev\\logsnovaarquitetura\\logsinfradata\\repository\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|solutionrelative:logsinfradata\\repository\\logrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|f:\\dev\\logsnovaarquitetura\\logsinfradata\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2789577C-B7BD-45AC-9CBE-91CFE3DB05AA}|LogsInfraData\\LogsInfraData.csproj|solutionrelative:logsinfradata\\context\\sqlservercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,63 +50,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogsInfraCrossCutting.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
-              "RelativeDocumentMoniker": "LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
-              "RelativeToolTip": "LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LogsAPI\\Program.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsAPI\\Program.cs",
+              "RelativeToolTip": "LogsAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:25:09.351Z"
+              "WhenOpened": "2025-02-12T05:36:18.086Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IBaseLogService.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\Interfaces\\IBaseLogService.cs",
-              "RelativeDocumentMoniker": "LogsDomain\\Interfaces\\IBaseLogService.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\Interfaces\\IBaseLogService.cs",
-              "RelativeToolTip": "LogsDomain\\Interfaces\\IBaseLogService.cs",
+              "DocumentIndex": 2,
+              "Title": "LogsAPI",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsAPI\\LogsAPI.csproj",
+              "RelativeDocumentMoniker": "LogsAPI\\LogsAPI.csproj",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsAPI\\LogsAPI.csproj",
+              "RelativeToolTip": "LogsAPI\\LogsAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-12T05:19:29.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogsController.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsAPI\\Controllers\\v1\\LogsController.cs",
+              "RelativeDocumentMoniker": "LogsAPI\\Controllers\\v1\\LogsController.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsAPI\\Controllers\\v1\\LogsController.cs",
+              "RelativeToolTip": "LogsAPI\\Controllers\\v1\\LogsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:19:51.303Z"
+              "WhenOpened": "2025-02-12T05:02:29.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogsInfraCrossCutting.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
+              "RelativeDocumentMoniker": "LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
+              "RelativeToolTip": "LogsInfraCrossCutting\\LogsInfraCrossCutting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:25:09.351Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LogValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\Validators\\LogValidator.cs",
-              "RelativeDocumentMoniker": "LogsService\\Validators\\LogValidator.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\Validators\\LogValidator.cs",
-              "RelativeToolTip": "LogsService\\Validators\\LogValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IBaseLogService.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Interfaces\\IBaseLogService.cs",
+              "RelativeDocumentMoniker": "LogsDomain\\Interfaces\\IBaseLogService.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\Interfaces\\IBaseLogService.cs",
+              "RelativeToolTip": "LogsDomain\\Interfaces\\IBaseLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:10:06.413Z"
+              "WhenOpened": "2025-02-11T20:19:51.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "LogPagamentoBoletoValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
-              "RelativeDocumentMoniker": "LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
-              "RelativeToolTip": "LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Title": "LogBaseValidator.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsService\\Validators\\LogBaseValidator.cs",
+              "RelativeDocumentMoniker": "LogsService\\Validators\\LogBaseValidator.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsService\\Validators\\LogBaseValidator.cs",
+              "RelativeToolTip": "LogsService\\Validators\\LogBaseValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T20:09:15.238Z"
+              "WhenOpened": "2025-02-11T20:10:06.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "LogPagamentoBoletoValidator.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
+              "RelativeDocumentMoniker": "LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
+              "RelativeToolTip": "LogsService\\Validators\\LogPagamentoBoletoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T20:09:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "SqlServerContext.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\Context\\SqlServerContext.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\Context\\SqlServerContext.cs",
               "RelativeDocumentMoniker": "LogsInfraData\\Context\\SqlServerContext.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\Context\\SqlServerContext.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\Context\\SqlServerContext.cs",
               "RelativeToolTip": "LogsInfraData\\Context\\SqlServerContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -102,11 +157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "LogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\Repository\\LogRepository.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\Repository\\LogRepository.cs",
               "RelativeDocumentMoniker": "LogsInfraData\\Repository\\LogRepository.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\Repository\\LogRepository.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\Repository\\LogRepository.cs",
               "RelativeToolTip": "LogsInfraData\\Repository\\LogRepository.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -114,13 +169,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "BaseService.cs",
-              "DocumentMoniker": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\Services\\BaseService.cs",
+              "DocumentMoniker": "F:\\dev\\LogsNovaArquitetura\\LogsService\\Services\\BaseService.cs",
               "RelativeDocumentMoniker": "LogsService\\Services\\BaseService.cs",
-              "ToolTip": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\Services\\BaseService.cs",
+              "ToolTip": "F:\\dev\\LogsNovaArquitetura\\LogsService\\Services\\BaseService.cs",
               "RelativeToolTip": "LogsService\\Services\\BaseService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T19:50:27.068Z",
               "EditorCaption": ""

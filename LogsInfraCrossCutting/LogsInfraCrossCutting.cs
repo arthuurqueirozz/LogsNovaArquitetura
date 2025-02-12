@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace LogsData.CrossCutting
+namespace LogsInfraCrossCutting
 {
     public static class DependencyInjection
     {

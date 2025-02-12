@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj": {}
+    "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj": {
+    "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj",
+        "projectUniqueName": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj",
         "projectName": "LogsDomain",
-        "projectPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj",
-        "packagesPath": "C:\\Users\\Arthur Queiroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\obj\\",
+        "projectPath": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj",
+        "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
+        "outputPath": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arthur Queiroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -71,24 +71,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj": {
+    "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj",
+        "projectUniqueName": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj",
         "projectName": "LogsInfraData",
-        "projectPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj",
-        "packagesPath": "C:\\Users\\Arthur Queiroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\obj\\",
+        "projectPath": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj",
+        "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
+        "outputPath": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arthur Queiroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj": {
-                "projectPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj"
+              "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj": {
+                "projectPath": "F:\\dev\\LogsNovaArquitetura\\LogsDomain\\LogsDomain.csproj"
               }
             }
           }
@@ -150,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

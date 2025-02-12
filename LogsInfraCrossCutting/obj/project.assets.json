@@ -2906,23 +2906,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Arthur Queiroz\\.nuget\\packages\\": {},
+    "C:\\Users\\Arthur\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj",
+      "projectUniqueName": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj",
       "projectName": "LogsInfraCrossCutting",
-      "projectPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj",
-      "packagesPath": "C:\\Users\\Arthur Queiroz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraCrossCutting\\obj\\",
+      "projectPath": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\LogsInfraCrossCutting.csproj",
+      "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
+      "outputPath": "F:\\dev\\LogsNovaArquitetura\\LogsInfraCrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arthur Queiroz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2937,11 +2937,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj": {
-              "projectPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj"
+            "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj": {
+              "projectPath": "F:\\dev\\LogsNovaArquitetura\\LogsInfraData\\LogsInfraData.csproj"
             },
-            "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\LogsService.csproj": {
-              "projectPath": "C:\\Users\\Arthur Queiroz\\Documents\\estudos\\LogsNovaArquitetura\\LogsService\\LogsService.csproj"
+            "F:\\dev\\LogsNovaArquitetura\\LogsService\\LogsService.csproj": {
+              "projectPath": "F:\\dev\\LogsNovaArquitetura\\LogsService\\LogsService.csproj"
             }
           }
         }
@@ -2987,7 +2987,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -14,3 +14,19 @@ C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraData\obj\
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\refint\LogsInfraData.dll
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.pdb
 C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\ref\LogsInfraData.dll
+F:\dev\LogsNovaArquitetura\LogsInfraData\bin\Debug\net8.0\LogsInfraData.deps.json
+F:\dev\LogsNovaArquitetura\LogsInfraData\bin\Debug\net8.0\LogsInfraData.dll
+F:\dev\LogsNovaArquitetura\LogsInfraData\bin\Debug\net8.0\LogsInfraData.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraData\bin\Debug\net8.0\LogsDomain.dll
+F:\dev\LogsNovaArquitetura\LogsInfraData\bin\Debug\net8.0\LogsDomain.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.csproj.AssemblyReference.cache
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.GeneratedMSBuildEditorConfig.editorconfig
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.AssemblyInfoInputs.cache
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.AssemblyInfo.cs
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.csproj.CoreCompileInputs.cache
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.sourcelink.json
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfr.9AF9D006.Up2Date
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.dll
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\refint\LogsInfraData.dll
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.pdb
+F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\ref\LogsInfraData.dll
