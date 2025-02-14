@@ -9,7 +9,8 @@ namespace LogsDomain.Entities.LogTipos
     public class LogTransacaoInterna : LogBase
     {
         public int NumeroContaInicio { get; set; }
-        public decimal ValorTransacao { get; set; } = 0m;
+        public int NumeroContaDestino { get; set; }
+        public decimal ValorTransacao { get; set; } 
         public string Status { get; set; } = string.Empty;
     }
 }

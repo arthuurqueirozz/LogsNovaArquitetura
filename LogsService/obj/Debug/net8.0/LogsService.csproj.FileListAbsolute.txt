@@ -30,3 +30,5 @@ F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.dll
 F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\refint\LogsService.dll
 F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.pdb
 F:\dev\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\ref\LogsService.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\bin\Debug\net8.0\LogsService.runtimeconfig.json
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsService\obj\Debug\net8.0\LogsService.genruntimeconfig.cache

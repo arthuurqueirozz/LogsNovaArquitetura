@@ -1,0 +1,108 @@
+[
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Log",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "LogsDomain.Entities.LogBase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Log",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "LogsDomain.Entities.LogBase",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Log",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Log/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Log/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "CreateLogPagamentoboleto",
+    "RelativePath": "api/v1/Log/PagamentoBoleto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "LogsDomain.Entities.LogTipos.LogPagamentoBoleto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LogsApplication.Controllers.LogController",
+    "Method": "CreateLogTransacaoInterna",
+    "RelativePath": "api/v1/Log/TransacaoInterna",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "log",
+        "Type": "LogsDomain.Entities.LogTipos.LogTransacaoInterna",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

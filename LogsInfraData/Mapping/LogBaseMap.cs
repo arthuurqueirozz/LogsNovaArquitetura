@@ -32,10 +32,10 @@ namespace LogsInfraData.Mapping
                 .HasColumnName("DataLog")
                 .HasColumnType("varchar(100)");
 
-            builder.Property(prop => prop.NumeroContaDestino)
-                .IsRequired()
-                .HasColumnName("NumeroContaDestino")
-                .HasColumnType("int");
+            //builder.Property(prop => prop.NumeroContaDestino)
+            //    .IsRequired()
+            //    .HasColumnName("NumeroContaDestino")
+            //    .HasColumnType("int");
         }
     }
 }

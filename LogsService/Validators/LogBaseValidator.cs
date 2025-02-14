@@ -17,10 +17,7 @@ namespace LogsService.Validators
                 .LessThanOrEqualTo(DateTime.Now).WithMessage("a data do log nao pode estar no futuro.");
 
             RuleFor(log => log.Agencia)
-                .GreaterThan(0).WithMessage("a agencia deve ser maior que zero.");
-
-            RuleFor(log => log.NumeroContaDestino)
-                .GreaterThan(0).WithMessage("o numero da conta destino deve ser maior que zero.");
+                .GreaterThan(0).WithMessage("numero da agencia nao pode ser zero.");
         }
     }
 }

@@ -30,3 +30,5 @@ F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.dll
 F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\refint\LogsInfraData.dll
 F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.pdb
 F:\dev\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\ref\LogsInfraData.dll
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraData\bin\Debug\net8.0\LogsInfraData.runtimeconfig.json
+C:\Users\Arthur Queiroz\Documents\estudos\LogsNovaArquitetura\LogsInfraData\obj\Debug\net8.0\LogsInfraData.genruntimeconfig.cache

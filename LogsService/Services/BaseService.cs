@@ -21,7 +21,9 @@ namespace LogsService.Services
             _logRepository = logRepository;
         }
 
-        public async Task<TEntity> Add<TValidator>(TEntity obj) where TValidator : AbstractValidator<TEntity>, new()
+        public async Task<T> Add<TValidator, T>(T obj)
+            where TValidator : AbstractValidator<T>, new()
+            where T : TEntity
         {
             Validate(obj, Activator.CreateInstance<TValidator>());
 
@@ -53,8 +55,7 @@ namespace LogsService.Services
         }
 
 
-
-        private void Validate(TEntity obj, AbstractValidator<TEntity> validator)
+        private void Validate<T>(T obj, AbstractValidator<T> validator)
         {
             if (obj == null)
             {
@@ -68,5 +69,6 @@ namespace LogsService.Services
                 throw new ValidationException(validationResult.Errors);
             }
         }
+
     }
 }

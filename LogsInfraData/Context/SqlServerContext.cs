@@ -17,7 +17,7 @@ namespace LogsInfraData.Context
         }
 
         public DbSet<LogBase> LogBase { get; set; }
-        public DbSet<LogTransacaoInterna> LogPagamentoBoletos { get; set; }
+        public DbSet<LogPagamentoBoleto> LogPagamentoBoletos { get; set; }
         public DbSet<LogTransacaoInterna> LogTransacaoInternas { get; set; }    
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

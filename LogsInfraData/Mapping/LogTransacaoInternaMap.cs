@@ -16,23 +16,25 @@ namespace LogsInfraData.Mapping
         {
             builder.ToTable("LogTransacaoInternas");
 
-            builder.HasKey(c => c.Id);
+            //builder.HasKey(c => c.Id);
+
+            builder.HasOne<LogBase>()
+                .WithOne()
+                .HasForeignKey<LogTransacaoInterna>(k => k.Id)
+                .OnDelete(DeleteBehavior.Cascade);
 
             builder.Property(prop => prop.NumeroContaInicio)
                 .IsRequired()
                 .HasColumnName("NumeroContaInicio");
 
-            builder.Property(prop => prop.ValorTransacao)
-                .IsRequired()
-                .HasColumnName("ValorTransacao");
-
             builder.Property(prop => prop.Status)
                 .IsRequired()
                 .HasColumnName("Status");
 
-            builder.HasOne<LogBase>()
-                .WithMany()
-                .HasForeignKey(k => k.Id);
+            builder.Property(prop => prop.ValorTransacao)
+                .IsRequired()
+                .HasColumnName("ValorTransacao")
+                .HasColumnType("decimal(18,2)");           
         }
     }
 }

@@ -16,7 +16,12 @@ namespace LogsInfraData.Mapping
         {
             builder.ToTable("LogPagamentoBoletos");
 
-            builder.HasKey(c => c.Id);
+            //builder.HasKey(c => c.Id);
+
+            builder.HasOne<LogBase>()
+                .WithOne()
+                .HasForeignKey<LogPagamentoBoleto>(c => c.Id)
+                .OnDelete(DeleteBehavior.Cascade);
 
             builder.Property(prop => prop.CodigoBarrasBoleto)
                 .IsRequired()
@@ -32,12 +37,9 @@ namespace LogsInfraData.Mapping
 
             builder.Property(prop => prop.ValorBoleto)
                 .IsRequired()
-                .HasColumnName("ValorBoleto");
+                .HasColumnName("ValorBoleto")
+                .HasColumnType("decimal(18,2)");
 
-
-            builder.HasOne<LogBase>()
-                .WithMany()
-                .HasForeignKey(k => k.Id);
         }
     }
 }

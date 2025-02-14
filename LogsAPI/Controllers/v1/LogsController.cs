@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using LogsDomain.Interfaces;
 using LogsService.Validators;
+using LogsDomain.Entities.LogTipos;
 
 namespace LogsApplication.Controllers;
 
@@ -10,10 +11,32 @@ namespace LogsApplication.Controllers;
 public class LogController(IBaseLogService<LogBase> service) : ControllerBase
 {
     [HttpPost]
-    public IActionResult Create([FromBody] LogBase log)
+    public async Task<IActionResult> Create([FromBody] LogBase log)
     {
-        return log == null ? NotFound() : Execute(() => service.Add<LogBaseValidator>(log));
+        if (log == null) return NotFound();
+
+        var createdLog = await service.Add<LogBaseValidator, LogBase>(log); 
+        return Ok(createdLog);
     }
+
+    [HttpPost("PagamentoBoleto")]
+    public async Task<IActionResult> CreateLogPagamentoboleto([FromBody] LogPagamentoBoleto log)
+    {
+        if (log == null) return NotFound();
+
+        var createdLog = await service.Add<LogPagamentoBoletoValidator, LogPagamentoBoleto>(log);
+        return Ok(createdLog);
+    }
+
+    [HttpPost("TransacaoInterna")]
+    public async Task<IActionResult> CreateLogTransacaoInterna([FromBody] LogTransacaoInterna log)
+    {
+        if (log == null) return NotFound();
+
+        var createdLog = await service.Add<LogTransacaoInternaValidator, LogTransacaoInterna>(log);
+        return Ok(createdLog);
+    }
+
 
     [HttpPut]
     public IActionResult Update([FromBody] LogBase log)

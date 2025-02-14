@@ -7,7 +7,10 @@ namespace LogsDomain.Interfaces
 {
     public interface IBaseLogService<TEntity> where TEntity : LogBase
     {
-        Task<TEntity> Add<TValidator>(TEntity obj) where TValidator : AbstractValidator<TEntity>, new();
+       
+        public Task<T> Add<TValidator, T>(T obj)
+            where TValidator : AbstractValidator<T>, new()
+            where T : TEntity;
         Task<IEnumerable<TEntity>> Get();
         Task<TEntity?> GetById(int id);
         Task<TEntity> Update<TValidator>(TEntity obj) where TValidator : AbstractValidator<TEntity>, new();
